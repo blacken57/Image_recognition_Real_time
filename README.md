@@ -30,9 +30,10 @@ Structure:
                 .
                 <person_n_face-n>.jpg</p>
 ```
-    keep the 'images' folder in the 'Image_recognition_Real_time' folder.
-    3)Run the svm_weight_create.py file. A new .joblib file named "encodings.joblib" should be created.
-    4)Run the svmcamera.py file, and make sure there is enough lighting. If your face is in the 'images' folder, you should be recognised.
-    
-    
-    Later, I will add a program to take aligned photos in a short time. And probably fix some lagging issues.Any suggestions, please reach out :)
+keep the 'images' folder in the 'Image_recognition_Real_time' folder.<br>
+    3)Run the svm_weight_create.py file. A new .joblib file named "encodings.joblib" should be created.<br>
+    4)Run the svmcamera.py file, and make sure there is enough lighting. If your face is in the 'images' folder, you should be recognised.<br><br><br>
+
+
+Later, I will add a program to take aligned photos in a short time. And probably fix some lagging issues.Any suggestions, please reach out.<br>
+
