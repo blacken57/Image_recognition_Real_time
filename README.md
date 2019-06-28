@@ -1,4 +1,7 @@
 # Image_recognition_Real_time
+
+
+
 Steps:
 1)set the python path variable. In linux, export PYTHONPATH=[...]/Image_recognition_Real_time/face_recognition where [...] is the address of where the repository is cloned.
 2)Collect Images and store them in folders as follows...
